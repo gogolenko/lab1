@@ -1,7 +1,4 @@
 ﻿#include <iostream>
-#include <string>
-#include <Windows>
-
 class Lamp {
     bool state;
 public:
